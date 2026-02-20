@@ -20,8 +20,7 @@ source("helpers/Prepare_function.R")
 source("helpers/pscrs.R")
 source("helpers/pscore_graph.R")
 
-# Use 'pairwise' to obtain contrast based data for each one of the five outcomes of interest
-
+# Use 'pairwise' to obtain contrast based data for each one of the two outcomes of interest
 p1 <- pairwise(data = data,
                treat = treatment,
                mean = mean_pain,
