@@ -2,7 +2,7 @@
 # install.packages("remotes")
 # remotes::install_github("TEvrenoglou/mvnma", ref = "main")
 #
-# Load the library
+# Load libraries
 library(mvnma)
 library(tidyverse)
 library(mvtnorm)
