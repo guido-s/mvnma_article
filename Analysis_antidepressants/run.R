@@ -81,8 +81,8 @@ mvNMA.standard$cor
 mvNMA.DM$cor
 #
 # save each model results on separate forest plots
-# forest(mvNMA.standard,file="Analysis_antidepressants/Results/forest_standard.pdf")
-# forest(mvNMA.DM,file="Analysis_antidepressants/Results/forest_DM.pdf")
+forest(mvNMA.standard,file="Analysis_antidepressants/Results/forest_standard.pdf")
+forest(mvNMA.DM,file="Analysis_antidepressants/Results/forest_DM.pdf")
 #
 # RANKING
 #
