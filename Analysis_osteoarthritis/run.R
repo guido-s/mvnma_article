@@ -136,7 +136,8 @@ netgraph(net1,
          thickness = "number",
          multiarm = FALSE,
          number.of.studies = TRUE,
-         start.layout = "circle")
+         start.layout = "circle",
+         lwd.max = max(net1$A.matrix))
 dev.off()
 #
 filename <- "Analysis_osteoarthritis/Results/netgraph_disability.tiff"
@@ -152,7 +153,8 @@ netgraph(net2,
          thickness = "number",
          multiarm = FALSE,
          number.of.studies = TRUE,
-         start.layout = "circle")
+         start.layout = "circle",
+         lwd.max = max(net2$A.matrix))
 dev.off()
 #
 # outcome specific ranking using P-scores
