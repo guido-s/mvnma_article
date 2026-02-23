@@ -81,8 +81,8 @@ mvNMA.standard$cor
 mvNMA.DM$cor
 #
 # save each model results on separate forest plots
-forest(mvNMA.standard,file="Analysis_antidepressants/Results/forest_standard.pdf")
-forest(mvNMA.DM,file="Analysis_antidepressants/Results/forest_DM.pdf")
+# forest(mvNMA.standard,file="Analysis_antidepressants/Results/forest_standard.pdf")
+# forest(mvNMA.DM,file="Analysis_antidepressants/Results/forest_DM.pdf")
 #
 # RANKING
 #
@@ -156,7 +156,8 @@ netgraph(net1,
          bg.points = "red",
          thickness = "number",
          multiarm = FALSE,
-         number.of.studies = TRUE)
+         number.of.studies = TRUE,
+         lwd.max = max(net1$A.matrix))
 dev.off()
 #
 filename <- "Analysis_antidepressants/Results/netgraph_Remission.tiff"
@@ -171,7 +172,8 @@ netgraph(net2,
          bg.points = "red",
          thickness = "number",
          multiarm = FALSE,
-         number.of.studies = TRUE)
+         number.of.studies = TRUE,
+         lwd.max = max(net2$A.matrix))
 dev.off()
 #
 filename <- "Analysis_antidepressants/Results/netgraph_AE.tiff"
@@ -186,7 +188,8 @@ netgraph(net3,
          bg.points = "red",
          thickness = "number",
          multiarm = FALSE,
-         number.of.studies = TRUE)
+         number.of.studies = TRUE,
+         lwd.max = max(net3$A.matrix))
 dev.off()
 #
 filename <- "Analysis_antidepressants/Results/netgraph_Loss_to_follow_up.tiff"
@@ -201,7 +204,8 @@ netgraph(net4,
          bg.points = "red",
          thickness = "number",
          multiarm = FALSE,
-         number.of.studies = TRUE)
+         number.of.studies = TRUE,
+         lwd.max = max(net4$A.matrix))
 dev.off()
 #
 filename <- "Analysis_antidepressants/Results/netgraph_Loss_to_follow_up_AE.tiff"
@@ -216,7 +220,8 @@ netgraph(net5,
          bg.points = "red",
          thickness = "number",
          multiarm = FALSE,
-         number.of.studies = TRUE)
+         number.of.studies = TRUE,
+         lwd.max = max(net5$A.matrix))
 dev.off()
 #
 # outcome specific ranking using P-scores
