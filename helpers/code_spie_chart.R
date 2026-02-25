@@ -1,4 +1,4 @@
-
+# Code obtained from the original publication by Daly et al. (https://pubmed.ncbi.nlm.nih.gov/33115431/)
 spie.chart <- function(outcome, theta, outcome.range=c(0,1), outcome.label, yticksnum=5){
   
   spie.data <- data.frame(outcome = outcome, theta = theta)
