@@ -1,0 +1,9 @@
+treat,SUCRA1,rank1,SUCRA2,rank2,SUCRA3,rank3,SUCRA4,rank4
+Ixekizumab,0.99,1,0.7,3,0.96,1,0.14,7
+Secukinumab,0.85,2,0.85,1,0.79,3,0.8,3
+Infliximab,0.67,3,0.8,2,0.81,2,0.04,8
+Ustekinumab,0.6,4,0.7,4,0.52,4,0.82,1
+Adalimumab,0.46,5,0.51,5,0.49,5,0.81,2
+Etanercept,0.28,6,0.31,6,0.28,6,0.46,6
+Methotrexate,0.15,7,0.15,7,0.15,7,0.47,4
+Placebo,0,8,0,8,0,8,0.47,5
