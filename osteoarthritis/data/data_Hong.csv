@@ -1,0 +1,118 @@
+"study","treatment","n","mean_pain","sd_pain","mean_disability","sd_disability"
+1,"No treatment",17,7.7,2.3,6.36,0.79
+1,"Aerobic exercise",17,0.7,1,1.28,0.97
+2,"No treatment",50,4.77,2.12,5.96,2.32
+2,"Aerobic exercise",52,3.77,1.73,3.74,2.69
+3,"Education",149,2.8,1.22,2.25,1.225
+3,"Aerobic exercise",144,2.28,1.2,1.8,1.2
+3,"Strength exercise",146,2.42,1.44,1.85,1.225
+4,"Education",50,5.5,2.07,6.18,2.75
+4,"Aerobic exercise",52,4.59,2.4,6.07,2.95
+5,"No treatment",124,4.873,2.063,3.757,2.237
+5,"Aquatic exercise",125,4.607,2.457,3.11,1.833
+6,"Education",23,3.78,2.345,3.92,2.936
+6,"Strength exercise",23,2.56,1.962,3.66,2.869
+7,"No treatment",193,5.07,2.53,3.045,1.72
+7,"Strength exercise",199,4.06,2.53,2.695,1.805
+8,"Placebo",10,6.3,1.9,5.1,1.7
+8,"Diathermy (low)",10,5,3.2,5.5,3
+8,"Diathermy (high)",10,5.5,2.7,5.1,2.3
+9,"Placebo",33,4.44,3.51,4.63,3.54
+9,"Diathermy (low)",38,4.73,3.48,4.93,3.63
+9,"Diathermy (high)",32,4.03,3.3,4.4,3.44
+10,"No treatment",94,4.25,2.367,1.85,1.374
+10,"Aerobic exercise",88,3.858,2.201,1.958,1.539
+11,"Education",23,3.75,2.5,5.98,1.94
+11,"Aquatic exercise",22,3.65,0.35,6.6,2.15
+12,"No treatment",19,3.37,1.78,2.99,1.63
+12,"Proprioception exercise",22,2.41,2.05,2.806,2.327
+13,"Placebo",19,4.18,1.659,4.59,1.681
+13,"Electrical stimulation",39,3.74,2.36,3.96,2.425
+14,"No treatment",70,2.959,2.394,3.66,1.636
+14,"Strength exercise",72,2.255,2.068,2.881,1.633
+15,"No treatment",27,2.38,1.403,3.86,1.351
+15,"Aquatic exercise",27,1.81,1.403,3.7,1.351
+15,"Strength exercise",25,1.56,1.4,3.61,1.35
+16,"No treatment",50,3.459,2.355,0.357,0.28
+16,"Aerobic exercise",45,3.523,2.193,0.428,0.368
+17,"Placebo",33,4,2.6,4.01,1.583
+17,"Ultrasound",34,3.9,2,3.469,1.615
+18,"Placebo",20,3.178,1.784,3.42,1.654
+18,"Electrical stimulation",20,2.834,2.136,2.933,2.034
+19,"Education",68,3.94,2.22,1.93,1.88
+19,"Aerobic exercise",69,3.09,1.54,1.85,2.26
+20,"Strength exercise",24,1.8,1.6,1.8,1.3
+20,"Proprioception exercise",24,1.3,1.2,1.2,1
+21,"No treatment",15,1.686,1.057,4.49,1.75
+21,"Proprioception exercise",29,1.314,1.143,3.56,2.09
+22,"Placebo",30,6.67,1.78,4.618,1.331
+22,"Ultrasound",30,5.25,1.9,4.525,1.717
+23,"Placebo",23,6.9,2,4.85,1.75
+23,"Diathermy (low)",32,3.8,2.2,3.85,2.03
+23,"Diathermy (high)",31,4.6,2.5,3.68,1.65
+24,"Education",36,2.56,1.8,NA,NA
+24,"Aerobic exercise",33,2.3,1.954,NA,NA
+25,"Placebo",20,3.5,2.9,NA,NA
+25,"Electrical stimulation",20,2.2,2.8,NA,NA
+26,"Placebo",10,6.75,2.375,NA,NA
+26,"Electrical stimulation",10,5.25,1.425,NA,NA
+27,"No treatment",34,3.3,1.5,NA,NA
+27,"Strength exercise",34,3,1.5,NA,NA
+28,"Education",17,2.08,2.09,NA,NA
+28,"Aerobic exercise",17,2.19,1.67,NA,NA
+29,"Aerobic exercise",23,3.8,1.6,NA,NA
+29,"Aquatic exercise",23,2.4,1.6,NA,NA
+30,"No treatment",6,4,0.743,NA,NA
+30,"Strength exercise",9,1.471,0.643,NA,NA
+31,"No treatment",35,5.385,1.528,NA,NA
+31,"Strength exercise",32,5.19,1.657,NA,NA
+32,"Education",21,1.397,1.242,NA,NA
+32,"Aerobic exercise",19,1.66,1.463,NA,NA
+33,"Education",18,1.426,1.026,NA,NA
+33,"Electrical stimulation",20,2.094,1.712,NA,NA
+34,"No treatment",78,3.095,2.03,NA,NA
+34,"Education",82,2.55,1.945,NA,NA
+34,"Aerobic exercise",80,3.11,2.01,NA,NA
+35,"No treatment",18,4.03,2.08,NA,NA
+35,"Education",18,4,1.56,NA,NA
+35,"Aerobic exercise",16,3.19,1.85,NA,NA
+36,"Education",18,5.99,2.4,NA,NA
+36,"Electrical stimulation",20,5.18,2.11,NA,NA
+37,"Placebo",10,4.1,2.6,NA,NA
+37,"Electrical stimulation",12,0.7,0.7,NA,NA
+38,"Electrical stimulation",25,0.6,0.1,NA,NA
+38,"Strength exercise",25,1.04,0.27,NA,NA
+39,"No treatment",108,4.18,1.95,NA,NA
+39,"Aerobic exercise",109,3.755,2.4,NA,NA
+40,"Aerobic exercise",32,3.84,2.75,NA,NA
+40,"Aquatic exercise",32,3.7,1.81,NA,NA
+41,"No treatment",34,3.55,1.7,NA,NA
+41,"Strength exercise",34,2.4,1.75,NA,NA
+42,"No treatment",8,4.93,2.02,NA,NA
+42,"Electrical stimulation",8,5.35,0.97,NA,NA
+43,"No treatment",14,2.764,2.252,NA,NA
+43,"Aerobic exercise",14,1.422,2.202,NA,NA
+44,"No treatment",30,1.32,0.76,NA,NA
+44,"Proprioception exercise",30,1.28,0.74,NA,NA
+45,"No treatment",28,3.36,1.54,NA,NA
+45,"Strength exercise",27,2.28,1.69,NA,NA
+46,"No treatment",12,2.096,1.844,NA,NA
+46,"Electrical stimulation",11,1.165,1.671,NA,NA
+47,"No treatment",36,3.65,1.7,NA,NA
+47,"Strength exercise",36,2.1,1.5,NA,NA
+47,"Proprioception exercise",36,2.15,1.15,NA,NA
+48,"No treatment",66,4.4,1.4,NA,NA
+48,"Strength exercise",66,3.6,0.7,NA,NA
+48,"Proprioception exercise",66,2.7,1.9,NA,NA
+49,"Education",98,7.2,6.63,NA,NA
+49,"Aerobic exercise",100,6.71,6.88,NA,NA
+50,"No treatment",44,3.25,1.65,NA,NA
+50,"Strength exercise",45,2.45,1.65,NA,NA
+51,"Education",36,4.556,0.467,NA,NA
+51,"Strength exercise",37,3.667,0.422,NA,NA
+52,"No treatment",10,NA,NA,2.5,0.85
+52,"Strength exercise",10,NA,NA,2.3,0.84
+53,"Placebo",41,NA,NA,3.893,2.723
+53,"Aerobic exercise",42,NA,NA,1.927,1.826
+54,"Education",78,NA,NA,6.559,0.899
+54,"Aerobic exercise",80,NA,NA,6.286,1.038
