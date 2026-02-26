@@ -187,22 +187,22 @@ saveRDS(nma2, file = paste0(subdir, "results/nma2.rds"))
 #
 
 filename <- paste0(subdir, "figures/netgraph_pain.tiff")
-tiff(filename = filename, width = 2200, height = 2200,res = 300)
+tiff(filename = filename, width = 2250, height = 2250,res = 300)
 ng1 <- netgraph(nma1, seq = "o",
   pch = 21, cex.points = 3,
   col.points = "red", bg.points = "red",
   lwd.max = max(nma1$A.matrix),
-  rotate = 0 / n * 360)
+  rotate = 10)
 trts1 <- ng1$nodes$trts
 dev.off()
 #
 filename <- paste0(subdir, "figures/netgraph_disability.tiff")
-tiff(filename = filename, width = 2200, height = 2200, res = 300)
+tiff(filename = filename, width = 2250, height = 2250, res = 300)
 netgraph(nma2, seq = trts1[trts1 %in% nma2$trts],
          pch = 21, cex.points = 3,
          col.points = "red", bg.points = "red",
          lwd.max = max(nma2$A.matrix),
-         rotate = 0 / n * 360)
+         rotate = 10)
 dev.off()
 
 
